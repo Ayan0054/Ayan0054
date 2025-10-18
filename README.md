@@ -64,7 +64,7 @@
 
 #### 💾 E-Submission System  
 - Tools: HTML, CSS, JavaScript, MySQL, PHP  
-- Built secure, paperless assignment submission portal with database integration.  
+- Built a secure, paperless assignment submission portal with database integration.  
 
 ---
 
@@ -88,8 +88,8 @@
 
 <p align="center">
   <a href="mailto:ayanshaikh0054@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ayan-shaikh-0054"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Ayan-Shaikh0054"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/shaikh-ayan-dilawar](https://www.linkedin.com/in/shaikh-ayan-dilawar/)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Ayan0054"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -97,8 +97,8 @@
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayan-Shaikh0054&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayan-Shaikh0054&theme=tokyonight&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayan0054&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayan0054&theme=tokyonight&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" height="170" />
 </p>
 
 ---
