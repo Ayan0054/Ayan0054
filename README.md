@@ -88,7 +88,7 @@
 
 <p align="center">
   <a href="mailto:ayanshaikh0054@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[https://www.linkedin.com/in/shaikh-ayan-dilawar](https://www.linkedin.com/in/shaikh-ayan-dilawar/)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shaikh-ayan-dilawar(https://www.linkedin.com/in/shaikh-ayan-dilawar/)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Ayan0054"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
